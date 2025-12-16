@@ -110,16 +110,27 @@ UI (Fragment)
 
 📂 주요 패키지 구조
 com.spendless.calendar
+
  ┣ ui
+
  ┃ ┣ calendar
+
  ┃ ┣ daily
+
  ┃ ┣ input
+
  ┃ ┗ report
+
  ┣ data
+
  ┃ ┣ model
+
  ┃ ┣ local (Room)
+
  ┃ ┗ repository
+
  ┣ ai
+
  ┗ MainActivity
 
 
