@@ -90,10 +90,15 @@ Android 캘린더형 가계부 앱입니다.
 
 🧩 앱 구조 (아키텍처)
 UI (Fragment)
+
  └── ViewModel
+    
       └── Repository
+         
            └── Room DAO
+             
                 └── SQLite
+
 
 
 * View ↔ ViewModel 완전 분리
